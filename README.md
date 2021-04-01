@@ -1,1 +1,2 @@
-# bss-validation-study
+# Scale Validation and Measurement Invariance of Belief in Sexism Shift Scale
+In this study, we aim to test structural validity of Belief in Sexism (BSS) scale in Indonesian population. We plan to conduct a confirmatory factor analysis by acknowledgeging the ordinal nature of the items (using DWLS estimator), discriminant and covergent validity, and measurement invariance by comparing men and women sample. 
